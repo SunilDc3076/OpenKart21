@@ -1,0 +1,22 @@
+2024-09-05 11:32:17,634 - ****** Starting AccountRegistration Test ******
+2024-09-05 11:32:18,937 - Clicked on MyAccount Tab
+2024-09-05 11:32:20,554 - Clicked on Rgister Tab
+2024-09-05 11:32:20,707 -Providing All Details
+2024-09-05 11:32:24,945 -validating Expected Message
+2024-09-05 11:32:25,250 -**** Finshed Test********
+2024-09-05 11:32:48,555 - ****** Starting LoginTest Test ******
+2024-09-05 11:32:49,682 - ****** Entering LoginDetails ******
+2024-09-05 11:32:49,976 - ****** clicked on Loginbtn ******
+2024-09-05 11:32:50,973 - ****** Validating Displayed Message  ******
+2024-09-05 11:32:51,095 - ****** Finished Test  ******
+2024-09-05 12:16:11,329 - ****** Starting AccountRegistration Test ******
+2024-09-05 12:16:11,870 - Clicked on MyAccount Tab
+2024-09-05 12:16:12,879 - Clicked on Rgister Tab
+2024-09-05 12:16:12,941 -Providing All Details
+2024-09-05 12:16:22,669 -validating Expected Message
+2024-09-05 12:16:22,881 -**** Finshed Test********
+2024-09-05 12:16:41,571 - ****** Starting LoginTest Test ******
+2024-09-05 12:16:42,232 - ****** Entering LoginDetails ******
+2024-09-05 12:16:44,022 - ****** clicked on Loginbtn ******
+2024-09-05 12:16:44,809 - ****** Validating Displayed Message  ******
+2024-09-05 12:16:44,859 - ****** Finished Test  ******

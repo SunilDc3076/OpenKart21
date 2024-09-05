@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="OpenCart suite">
+	
+	<groups>
+		<run>
+			<include name="master"/>
+		</run>
+	</groups>
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager"/>
+	</listeners>
+	<test name="Opencart Test">
+		<parameter name="browser" value="chrome"/>
+		<parameter name="os" value="windows"/>
+		<classes>
+		<class name="testCases.Tcc_001AccountRegistration"/>
+		<class name="testCases.Tcc_002LoginTest"/> 
+			<!--- <class name="testCases.Tcc_003LoginDDT"/>-->
+		</classes>
+	</test>
+</suite>
+
+
